@@ -84,6 +84,26 @@ Ser un desarrollador **senior competente**, con dominio técnico y humano. Aspir
 
 ---
 
+## 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-carvajal-084274386/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jesuscarvajaljdc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jesuscarvajaljdc%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>📍 Ubicación:</b> Valledupar, Colombia  
+  <br>
+  <b>📱 Teléfono:</b> +57 304 343 0868  
+</p>
+
+
+---
+
 ## 🌟 Gracias por pasar por aquí :)
 Me encuentro en crecimiento, aprendiendo y mejorando día a día. Si te interesa colaborar en algún proyecto, revisar mi código o simplemente intercambiar ideas, eres bienvenido.
 
