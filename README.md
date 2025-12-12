@@ -11,7 +11,7 @@ Me caracterizo por ser analítico, curioso y directo: me gusta entender los "por
 
 ---
 
-## 🚀 Tecnologías que manejo
+## 🚀 Competencias tecnológicas 
 
 <div align="center">
 
