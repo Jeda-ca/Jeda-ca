@@ -74,7 +74,7 @@ Seguir creciendo como **Desarrollador Full Stack** con énfasis en Backend. Aspi
 
 ---
 
-> "No busco solo código que funcione, busco código que tenga sentido."
+> "No busco solo que funcione, busco que tenga sentido."
 
 ---
 
