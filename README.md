@@ -1,13 +1,13 @@
 # 👋 Hola, soy Jesús David Carvajal Coneo
 
-### 🔺 Ingeniero de Sistemas en formación | Backend Developer Junior | Apasionado por la tecnología y la resolución de problemas reales
+### 🔺 Ingeniero de Sistemas en formación | Backend Developer & Full Stack | Apasionado por la tecnología y la arquitectura de software
 
 ---
 
 ## 🧰 Sobre mí
-Soy un desarrollador en constante aprendizaje, estudiante de Ingeniería de Sistemas en la Universidad Popular del Cesar (Valledupar, Colombia). Me enfoco principalmente en el desarrollo **backend**, con intereses en arquitecturas limpias, patrones de diseño, automatización de procesos y soluciones tecnológicas aplicadas a problemas del mundo real.
+Soy un desarrollador en constante evolución, estudiante de Ingeniería de Sistemas en la Universidad Popular del Cesar (Valledupar, Colombia). Aunque mi fortaleza principal es el **backend**, disfruto construyendo soluciones completas e integrales. Me especializo en arquitecturas limpias, seguridad en el desarrollo, optimización de bases de datos y la creación de sistemas que resuelven problemas reales de impacto social y comercial.
 
-Me caracterizo por ser analítico, curioso y directo: me gusta entender los "por qués" de cada cosa. Combino creatividad con pensamiento estructurado, lo que me permite participar tanto en diseño de interfaces como en lógica de negocio. Tengo actitud de investigador y una comunicación clara, formal cuando se necesita, pero honesta siempre.
+Me caracterizo por ser analítico, meticuloso y directo: no solo busco que el código funcione, sino que sea escalable y seguro. Combino el pensamiento lógico-matemático con la creatividad para diseñar desde la estructura de datos hasta la experiencia de usuario.
 
 ---
 
@@ -15,55 +15,62 @@ Me caracterizo por ser analítico, curioso y directo: me gusta entender los "por
 
 <div align="center">
 
-| 💻 Lenguajes | 🧠 Frameworks y Librerías | 🗃️ Bases de Datos | 🔧 Herramientas |
+| 💻 Lenguajes | 🧠 Frameworks y Librerías | 🗃️ Bases de Datos y ORM | 🔧 Herramientas |
 |-------------|--------------------------|-------------------|------------------|
-| `Java` `C#` `C++` `Python` `VBScript` `SQL` | `.NET Framework` `Windows Forms` `Bootstrap 5` `React (learning)` | `SQL Server` `MySQL` | `Git` `GitHub` `Docker (básico)` `Excel Avanzado` `VS Code` `Visual Studio` |
+| `TypeScript` `JavaScript` `C#` `Java` `SQL` `Python` | `Node.js` `React` `Express` `TailwindCSS` `.NET` | `PostgreSQL` `SQL Server` `Prisma` `MySQL` | `Docker` `Git` `GitHub` `VS Code` `Postman` |
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,py,html,css,js,react,dotnet,bootstrap,git,docker,mysql,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,postgres,prisma,docker,cs,dotnet,java,git,github,vscode,postman,html,css" />
 </p>
 
 También estoy familiarizado con:
 
-- ⚙️ Consola / Terminal
-- 🧠 Patrones de diseño: DAO, Repositorio, MVC
-- 🧩 Principios: SOLID, GRASP, SRP
-- 🔁 Metodologías: Iterativo-Incremental, Modular, Enfoque basado en buenas prácticas
+- ⚙️ **Arquitectura:** REST APIs, MVC, Capas (Clean Architecture)
+- 🧠 **Patrones:** DAO, Repositorio, Singleton, SOLID
+- 🔒 **Seguridad:** JWT, Middlewares, RBAC (Role-Based Access Control)
+- 🔁 **Metodologías:** Desarrollo modular y despliegue con Docker
 
 ---
 
-## 📚 Proyectos personales / académicos destacados
+## 📚 Proyectos destacados
+
+### ❤️ [Fundación Atma Namasté - Sistema de Gestión](https://github.com/Jeda-ca/fundacion-app)
+> Plataforma web integral para la transformación digital de una fundación sin ánimo de lucro. Centraliza la gestión de beneficiarios, control de asistencias, donaciones y reportes estadísticos.
+>
+> **Proyecto colaborativo** co-desarrollado junto a **María Isabel García**. Aunque iniciamos con roles especializados, evolucionamos hacia un desarrollo **Full Stack conjunto** para garantizar la integración perfecta entre el diseño UI/UX y la lógica de negocio.
+
+- **Stack PERN + TypeScript:** PostgreSQL, Express, React, Node.js.
+- **Arquitectura:** API RESTful segura con Prisma ORM y frontend modular.
+- **Características:** Autenticación JWT, control de roles (RBAC), dashboards interactivos y reportes automatizados.
+- **Infraestructura:** Contenerización con Docker.
 
 ### 🌱 [Demeter](https://github.com/jeda-ca/demeter)
-> Sistema de gestión para mercados agrícolas, desarrollado con C# y SQL Server usando una arquitectura en capas y patrones como DAO y Repositorio. Nace con la visión de conectar productores con consumidores, eliminando intermediarios y modernizando el agro colombiano.
+> Sistema de gestión para mercados agrícolas, desarrollado con C# y SQL Server. Nace con la visión de conectar productores con consumidores, eliminando intermediarios y modernizando el agro colombiano.
 
-- Arquitectura por capas (ENTITY, DAL, BLL, GUI)
-- Patrones: Repositorio, DAO, SOLID, GRASP
-- Tecnologías: C#, WinForms, SQL Server, ADO.NET
+- Arquitectura por capas (ENTITY, DAL, BLL, GUI) y patrones de diseño.
+- Tecnologías: C#, WinForms, SQL Server, ADO.NET.
 
 ### 🎀 [JMAL Cosméticos](https://github.com/jeda-ca/jmal-cosmeticos)
-> Tienda online de cosméticos con catálogo dinámico, carrito funcional, interfaz responsiva y diseño elegante. Proyecto realizado en equipo con HTML5, CSS3, JavaScript y Bootstrap 5.
+> Tienda online de cosméticos con catálogo dinámico y carrito de compras persistente.
 
-- Catálogo de productos con `localStorage`
-- Carrito con actualización de cantidades y persistencia
-- UI responsiva con Bootstrap 5
+- Frontend responsivo con Bootstrap 5 y gestión de estado con JavaScript vanilla.
 
 ---
 
 ## 🌍 Sobre mí más allá del código
 
-- 🎓 Estudiante comprometido, en proceso de consolidar una carrera sólida como **developer backend**.
-- 🧠 Investigador de mente crítica, con facilidad para diseccionar problemas complejos.
-- 🎨 Creativo en la escritura y comunicación. Capaz de escribir desde cartas formales hasta guiones teatrales.
-- ✨ Apasionado por las soluciones tecnológicas que **automatizan y transforman** tareas repetitivas.
-- ✊ Consciente del valor del trabajo en equipo, pero también firme en lo que cree correcto y ético.
+- 🎓 Estudiante comprometido, consolidando una carrera sólida como **Ingeniero de Sistemas**.
+- 🧠 Investigador de mente crítica, con facilidad para diseccionar problemas complejos y documentar soluciones.
+- 🎨 Creativo en la comunicación técnica y funcional.
+- ✨ Apasionado por herramientas que **automatizan y transforman** tareas repetitivas en procesos eficientes.
+- ✊ Creyente firme en el software ético y el **trabajo en equipo** como pilar del éxito.
 
 ---
 
 ## 🎯 Objetivo profesional
-Ser un desarrollador **senior competente**, con dominio técnico y humano. Aspiro a integrarme en equipos que construyan software con sentido y propósito, y que se enfrenten a desafíos reales con pasión y responsabilidad.
+Seguir creciendo como **Desarrollador Full Stack** con énfasis en Backend. Aspiro a integrarme en equipos colaborativos que construyan software crítico, donde la calidad del código, la seguridad y la arquitectura sean prioridades no negociables.
 
 ---
 
@@ -71,15 +78,16 @@ Ser un desarrollador **senior competente**, con dominio técnico y humano. Aspir
 
 ---
 
-## ✨ GitHub Stats & Actividad
+## ✨ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeda-ca&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeda-ca&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeda-ca&theme=radical" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeda-ca&theme=radical" width="60%" />
+  <a href="https://github.com/jeda-ca?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20mis%20repositorios-5+-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -100,7 +108,6 @@ Ser un desarrollador **senior competente**, con dominio técnico y humano. Aspir
   <br>
   <b>📱 Teléfono:</b> +57 304 343 0868  
 </p>
-
 
 ---
 
